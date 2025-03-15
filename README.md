@@ -18,8 +18,8 @@ This project implements a RESTful API for user management with basic CRUD (Creat
 
 1. Clone this repository:
    ```sh
-   git clone <repository-url>
-   cd <project-directory>
+   [git clone <repository-url>](https://github.com/Nitish-Naik/zylentrix.git)
+   cd <zylentrix>
    ```
 
 2. Create and activate a virtual environment (recommended):
