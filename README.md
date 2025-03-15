@@ -18,8 +18,8 @@ This project implements a RESTful API for user management with basic CRUD (Creat
 
 1. Clone this repository:
    ```sh
-   [git clone <repository-url>](https://github.com/Nitish-Naik/zylentrix.git)
-   cd <zylentrix>
+   [git clone (https://github.com/Nitish-Naik/zylentrix.git)
+   cd zylentrix
    ```
 
 2. Create and activate a virtual environment (recommended):
@@ -205,13 +205,6 @@ curl -X DELETE http://127.0.0.1:5000/api/users/1
 - **Database Security:** Uses parameterized queries to prevent SQL injection attacks.
 - **Email Uniqueness:** Ensures emails are unique to prevent duplicate records.
 
-## Future Improvements
-
-- Add authentication and authorization.
-- Implement pagination for retrieving users.
-- Add more comprehensive input validation.
-- Implement logging for better debugging and monitoring.
-- Add unit and integration tests.
 
 ---
 
